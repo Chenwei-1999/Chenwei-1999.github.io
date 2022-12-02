@@ -1,0 +1,58 @@
+
+/* 
+  format for basic info
+     */
+.column-left {
+  float: left;
+  text-align: center;
+  font-family: cursive;
+  width: 30%;
+}
+
+
+#short-bio {
+  font-size: small;
+}
+
+
+/* 
+  format for right column
+    */
+.column-right {
+  float: left;
+  width: 50%;
+}
+
+#intro {
+  text-align: justify;
+}
+
+.head-image {
+  float: left;
+  width: auto;
+  margin: 5px;
+  height: 150px;
+}
+
+/* 
+table for project
+*/
+
+table, th, td {
+  border:1px solid black;
+}
+
+.demo {
+  width: 300px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*
+back-ground images 
+ */
