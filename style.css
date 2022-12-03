@@ -52,9 +52,11 @@ nav bar
 
 #visited{
   color:darkred;
+  font-size:x-large;
 }
 #unvisited{
   color: green;
+  font-size: large;
 }
 
 /*
@@ -69,3 +71,14 @@ nav bar
 /*
 back-ground images 
  */
+body::after{
+    content: "";
+  background: url(images/bg.jpg);
+  opacity: 0.3;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
