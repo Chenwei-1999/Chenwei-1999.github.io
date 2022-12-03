@@ -46,7 +46,20 @@ table, th, td {
   width: 300px;
 }
 
-/* Clear floats after the columns */
+/*
+nav bar 
+ */
+
+#visited{
+  color:darkred;
+}
+#unvisited{
+  color: green;
+}
+
+/*
+ Clear floats after the columns
+ */
 .row:after {
   content: "";
   display: table;
