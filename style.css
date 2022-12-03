@@ -74,10 +74,10 @@ back-ground images
 body::after{
     content: "";
   background: url(images/bg.jpg);
-  opacity: 0.3;
+  opacity: 0.15;
   top: 0;
   left: 0;
-  bottom: 0;
+  bottom: -20px;
   right: 0;
   position: absolute;
   z-index: -1;
