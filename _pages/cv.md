@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Data Analytics, The Ohio State University, 2022
-* M.S. in Computer Science, Northwestern University, 2024 (expected)
+* B.S. in Data Analytics, The Ohio State University, 2018-2022
+* M.S. in Computer Science, Northwestern University, 2022-2024 (expected)
 
 Work experience
 ======
