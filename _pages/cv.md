@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Northwestern University, 2022-2024 (GPA: 4.0)  
+* M.S. in Computer Science, Northwestern University, 2022-2024   
   - Thesis Track
-* B.S. in Data Analytics, The Ohio State University, 2018-2022 (GPA: 3.76)
+  - GPA: 4.0
+* B.S. in Data Analytics, The Ohio State University, 2018-2022  
   - Minor in Mathematics
+  - GPA: 3.76
   
 
 
