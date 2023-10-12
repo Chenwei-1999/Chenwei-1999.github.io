@@ -2,7 +2,7 @@
 title: "On Sparse Modern Hopfield Model"
 collection: publications
 permalink: /publication/On-Sparse-Modern-Hopfield-Model
-excerpt: 'We introduce the sparse modern Hopfield model as a sparse extension of the modern Hopfield model.'
+excerpt: 'The sparse modern Hopfield model is introduced as an extension of the dense modern Hopfield model, offering a one-step approximation of the sparse attention mechanism. The model's key contribution is a closed-form sparse Hopfield energy derived from a sparse entropic regularizer, demonstrating improved memory retrieval performance over the dense Hopfiled model.'
 date: 2023-09-22
 venue: 'NeurIPS'
 paperurl: 
