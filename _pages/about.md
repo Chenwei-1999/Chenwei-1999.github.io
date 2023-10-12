@@ -14,15 +14,15 @@ Selected Publications
 ======
 On Sparse Modern Hopfield Model.  
 Hu, Jerry Yao-Chieh, Donglin Yang, Dennis Wu, *Chenwei Xu*, Bo-Yu Chen, and Han Liu.  
-*NeurIPS 2023 Poster Paper* [[Link](https://arxiv.org/abs/2309.12673)]
+*NeurIPS* 2023 Poster Paper [[Link](https://arxiv.org/abs/2309.12673)]
 
 Feature Programming for Multivariate Time Series Prediction.  
 Reneau, Alex, Jerry Yao-Chieh Hu, *Chenwei Xu*, Weijian Li, Ammar Gilani, and Han Liu.  
-*ICML 2023 Poster Paper* [[Link](https://arxiv.org/abs/2306.06252)]
+*ICML* 2023 Poster Paper [[Link](https://arxiv.org/abs/2306.06252)]
 
 Open-Ended Multi-Modal Relational Reasoning for Video Question Answering.  
 Luo, Haozheng, Qin Ruiyang, *Chenwei Xu*, Guo Ye and Zening Luo.  
-*IEEE RO-MAN 2023 Poster Paper* [[Link](https://arxiv.org/abs/2012.00822)]
+*IEEE RO-MAN* 2023 Poster Paper [[Link](https://arxiv.org/abs/2012.00822)]
 
 Using deep learning for the automated identification of cone and rod photoreceptors from adaptive optics imaging of the human retina.  
 Zhou, Mengxi, Nathan Doble, Stacey S. Choi, Tianyu Jin, *Chenwei Xu*, Srinivasan Parthasarathy, and Rajiv Ramnath.  
