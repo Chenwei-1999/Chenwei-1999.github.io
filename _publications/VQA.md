@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Open-Ended Multi-Modal Relational Reason for Video Question Answering"
 collection: publications
 permalink: /publication/VQA
 excerpt: 'The paper presents a robotic agent for language-based interactions in video scenes, emphasizing the role of trust and achieving a 2% to 3% performance boost over benchmarks.'
