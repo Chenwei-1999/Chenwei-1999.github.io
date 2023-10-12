@@ -8,6 +8,7 @@ venue: 'NeurIPS'
 paperurl: 
 citation: 
 ---
+
 We introduce the sparse modern Hopfield model as a sparse extension of the modern Hopfield model. Like its dense counterpart, 
 the sparse modern Hopfield model equips a memory-retrieval dynamics whose one-step approximation corresponds to
 the sparse attention mechanism. Theoretically, our key contribution is a principled
