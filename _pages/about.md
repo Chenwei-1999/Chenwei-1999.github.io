@@ -12,10 +12,18 @@ Chenewi Xu is a master's student in Computer Science at Northwestern University 
 
 Selected Publications
 ======
-Hu, Jerry Yao-Chieh, Donglin Yang, Dennis Wu, *Chenwei Xu*, Bo-Yu Chen, and Han Liu. "On Sparse Modern Hopfield Model." arXiv preprint arXiv:2309.12673 (2023). [Link](https://arxiv.org/abs/2309.12673) **NeurIPS 2023 Poster Paper**
+On Sparse Modern Hopfield Model.
+Hu, Jerry Yao-Chieh, Donglin Yang, Dennis Wu, *Chenwei Xu*, Bo-Yu Chen, and Han Liu. 
+*NeurIPS 2023 Poster Paper* [[Link](https://arxiv.org/abs/2309.12673)]
 
-Reneau, Alex, Jerry Yao-Chieh Hu, *Chenwei Xu*, Weijian Li, Ammar Gilani, and Han Liu. "Feature Programming for Multivariate Time Series Prediction." arXiv preprint arXiv:2306.06252 (2023). [Link](https://arxiv.org/abs/2306.06252) **ICML 2023 Poster Paper**
+Feature Programming for Multivariate Time Series Prediction.
+Reneau, Alex, Jerry Yao-Chieh Hu, *Chenwei Xu*, Weijian Li, Ammar Gilani, and Han Liu.
+*ICML 2023 Poster Paper* [[Link](https://arxiv.org/abs/2306.06252)]
 
-Luo, Haozheng, Qin Ruiyang, *Chenwei Xu*, Guo Ye and Zening Luo. “Open-Ended Multi-Modal Relational Reasoning for Video Question Answering.” arXiv preprint arXiv:2012.00822 (2023). [Link](https://arxiv.org/abs/2012.00822) **IEEE RO-MAN 2023 Poster Paper**
+Open-Ended Multi-Modal Relational Reasoning for Video Question Answering.
+Luo, Haozheng, Qin Ruiyang, *Chenwei Xu*, Guo Ye and Zening Luo. 
+*IEEE RO-MAN 2023 Poster Paper* [[Link](https://arxiv.org/abs/2012.00822)]
 
-Zhou, Mengxi, Nathan Doble, Stacey S. Choi, Tianyu Jin, *Chenwei Xu*, Srinivasan Parthasarathy, and Rajiv Ramnath. "Using deep learning for the automated identification of cone and rod photoreceptors from adaptive optics imaging of the human retina." Biomedical Optics Express 13, no. 10 (2022): 5082-5097. [Link](https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-10-5082&id=498617)
+Using deep learning for the automated identification of cone and rod photoreceptors from adaptive optics imaging of the human retina.
+Zhou, Mengxi, Nathan Doble, Stacey S. Choi, Tianyu Jin, *Chenwei Xu*, Srinivasan Parthasarathy, and Rajiv Ramnath. 
+*Biomedical Optics Express* [[Link](https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-10-5082&id=498617)]
