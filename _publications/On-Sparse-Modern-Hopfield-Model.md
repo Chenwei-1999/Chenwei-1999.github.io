@@ -5,7 +5,7 @@ permalink: /publication/On-Sparse-Modern-Hopfield-Model
 excerpt: 'The sparse modern Hopfield model is introduced as an extension of the dense modern Hopfield model, offering a one-step approximation of the sparse attention mechanism.'
 date: 2023-09-22
 venue: 'NeurIPS'
-paperurl: http://academicpages.github.io/files/2309.12673.pdf
+paperurl: 
 citation: 
 ---
 
