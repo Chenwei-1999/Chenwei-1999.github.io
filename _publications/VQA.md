@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/VQA
 excerpt: 'The paper presents a robotic agent for language-based interactions in video scenes, emphasizing the role of trust and achieving a 2% to 3% performance boost over benchmarks.'
 date: 2023-06-23
-venue: IEEE International Conference on Robot and Human Interactive Communication'
+venue: 'IEEE International Conference on Robot and Human Interactive Communication'
 paperurl: 
 citation: 
 ---
