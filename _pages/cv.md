@@ -19,4 +19,8 @@ Education
   - GPA: 3.76
   
 
+Competition
+======
+* Second Prize in “SAE AI Mini-Challenge”[Link](https://mae.osu.edu/news/2022/01/student-team-places-second-inaugural-sae-ai-mini-challenge), 2021
+  
 
