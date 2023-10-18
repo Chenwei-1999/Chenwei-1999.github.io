@@ -21,6 +21,6 @@ Education
 
 Competition
 ======
-* Second Prize in “SAE AI Mini-Challenge”[Link](https://mae.osu.edu/news/2022/01/student-team-places-second-inaugural-sae-ai-mini-challenge), 2021
+* Second Prize in “SAE AI Mini-Challenge” [[*Link*](https://mae.osu.edu/news/2022/01/student-team-places-second-inaugural-sae-ai-mini-challenge)], 2021
   
 
