@@ -25,5 +25,5 @@ Haozheng Luo, Qin Ruiyang, *Chenwei Xu*, Guo Ye and Zening Luo.
 *IEEE RO-MAN* 2023 Poster Paper [[Link](https://arxiv.org/abs/2012.00822)]
 
 Using deep learning for the automated identification of cone and rod photoreceptors from adaptive optics imaging of the human retina.  
-Zhou, Mengxi, Nathan Doble, Stacey S. Choi, Tianyu Jin, *Chenwei Xu*, Srinivasan Parthasarathy, and Rajiv Ramnath.  
+Mengxi Zhou, Nathan Doble, Stacey S. Choi, Tianyu Jin, *Chenwei Xu*, Srinivasan Parthasarathy, and Rajiv Ramnath.  
 *Biomedical Optics Express* [[Link](https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-10-5082&id=498617)]
