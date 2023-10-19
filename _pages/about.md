@@ -13,7 +13,7 @@ Chenewi Xu is a master's student in Computer Science at Northwestern University 
 Selected Publications
 ======
 On Sparse Modern Hopfield Model.  
-Hu, Jerry Yao-Chieh, Donglin Yang, Dennis Wu, *Chenwei Xu*, Bo-Yu Chen, and Han Liu.  
+Jerry Yao-Chieh Hu, Donglin Yang, Dennis Wu, *Chenwei Xu*, Bo-Yu Chen, and Han Liu.  
 *NeurIPS* 2023 Poster Paper [[Link](https://arxiv.org/abs/2309.12673)]
 
 Feature Programming for Multivariate Time Series Prediction.  
