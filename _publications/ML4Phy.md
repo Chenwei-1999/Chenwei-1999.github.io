@@ -17,4 +17,4 @@ A key feature of our approach is the use of the inductive biases from a PID cont
 Our method delivers a significant improvement in the Spill Duty Factor (SDF), outperforming the currently employed PID controller baseline by an additional XX+\%.
 The paper presents initial offline results obtained from a differentiable Mu2e accelerator simulator, laying the groundwork for real-time implementation and application, and signifying an important step towards automatic proton beam intensity control for the Mu2e experiment.
 
-# [Download paper here](http://chenwei-1999.github.io/files/2309.12673.pdf)
+[Download paper here](http://chenwei-1999.github.io/files/2309.12673.pdf)
