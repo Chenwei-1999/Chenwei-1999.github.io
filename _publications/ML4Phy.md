@@ -3,7 +3,7 @@ title: "Beyond PID Controllers: PPO with Neuralized PID Policy for Proton Beam I
 collection: publications
 permalink: /publication/ML4Phy
 excerpt: 'We developed a neuralized-PID Soft Actor-Critic (SAC) algorithm for real-time proton beam intensity control in the Mu2e experiment at Fermilab.'
-date: 2023-09-22
+date: 2023-10-27
 venue: 'NeurIPS ML4Phy'
 paperurl: 
 citation: 
