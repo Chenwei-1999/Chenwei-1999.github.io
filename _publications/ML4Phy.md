@@ -9,12 +9,22 @@ paperurl:
 citation: 
 ---
 
-We introduce a novel Soft Actor Critic (SAC) algorithm equipped with neuralized-PID policy function to address the uniform proton beam intensity delivery problem for the upcoming Mu2e experiment at Fermi National Accelerator Laboratory (Fermilab). 
-The challenge lies in controlling the spill regulation process to sustain a consistent intensity profile. 
-Our primary goal is to establish an automated controller capable of real-time calibration of the Spill Regulation System (SRS) parameters, offering feedback on a millisecond timescale. 
-By treating the physical Mu2e accelerator system as a Markov Decision Process suitable for Reinforcement Learning (RL) with continuous action, we tackle it utilizing a Soft-Actor-Critic (SAC) equipped with neuralized-PID policy for bias reduction and stabilized training process.
-A key feature of our approach is the use of the inductive biases from a PID controller in the neuralized-PID policy, which guards against typical overfitting of the policy during training, while maintaining robustness to environmental changes. 
-Our method delivers a significant improvement in the Spill Duty Factor (SDF), outperforming the currently employed PID controller baseline by an additional XX+\%.
-The paper presents initial offline results obtained from a differentiable Mu2e accelerator simulator, laying the groundwork for real-time implementation and application, and signifying an important step towards automatic proton beam intensity control for the Mu2e experiment.
+
+We introduce a novel Proximal Policy Optimization (PPO) algorithm aimed at
+addressing the challenge of maintaining a uniform proton beam intensity delivery in
+the Muon to Electron Conversion Experiment (Mu2e) at Fermi National Accelerator
+Laboratory (Fermilab). Our primary objective is to regulate the spill process to
+ensure a consistent intensity profile, with the ultimate goal of creating an automated
+controller capable of providing real-time feedback and calibration of the Spill
+Regulation System (SRS) parameters on a millisecond timescale. We treat the
+Mu2e accelerator system as a Markov Decision Process suitable for Reinforcement
+Learning (RL), utilizing PPO to reduce bias and enhance training stability. A key
+innovation in our approach is the integration of neuralized PID controller into the
+policy fucntion, resulting in a significant improvement in the Spill Duty Factor
+(SDF) by 9.4%, surpassing the performance of the current PID controller baseline 
+by an additional 2.2%. This paper presents the preliminary offline results based
+on a differentiable simulator of the Mu2e accelerator. It paves the ground works
+for real-time implementations and applications, representing a crucial step towards 
+automated proton beam intensity control for the Mu2e experiment.
 
 [Download paper here](http://chenwei-1999.github.io/files/Mu2e_ML4Phy_preprint.pdf)
