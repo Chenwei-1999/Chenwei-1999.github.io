@@ -1,1 +1,14 @@
+---
+title: "Beyond PID Controllers: PPO with Neuralized PID Policy for Proton Beam Intensity Control in Mu2e"
+collection: publications
+permalink: /publication/ML4Phy
+excerpt: ''
+date: 2023-09-22
+venue: 'NeurIPS ML4Phy'
+paperurl: 
+citation: 
+---
 
+We introduce a novel Proximal Policy Optimization (PPO) algorithm aimed at addressing the challenge of maintaining a uniform proton beam intensity delivery in the Muon to Electron Conversion Experiment (Mu2e) at Fermi National Accelerator Laboratory (Fermilab).
+
+# [Download paper here](http://chenwei-1999.github.io/files/2309.12673.pdf)
