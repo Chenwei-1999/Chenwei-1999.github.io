@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ML4Phy
 excerpt: 'This paper introduces a neuralized-PID Soft Actor-Critic (SAC) algorithm for real-time proton beam intensity control in the Mu2e experiment at Fermilab.'
 date: 2023-10-27
-venue: 'NeurIPS(ML4Phy)'
+venue: 'NeurIPS (ML4Phy Workshop)'
 paperurl: 
 citation: 
 ---
