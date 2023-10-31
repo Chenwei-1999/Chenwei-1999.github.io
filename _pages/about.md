@@ -13,7 +13,7 @@ Chenewi Xu is a master's student in Computer Science at Northwestern University 
 Selected Publications
 ======
 Beyond PID Controllers: PPO with Neuralized PID Policy for Proton Beam Intensity Control in Mu2e.  
-*Chenwei Xu*, Jerry Yao-Chieh Hu, et al.
+*Chenwei Xu*, Jerry Yao-Chieh Hu, et al.  
 *NeurIPS* 2023 Workshop Paper
 
 On Sparse Modern Hopfield Model.  
