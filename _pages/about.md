@@ -14,7 +14,7 @@ Selected Publications
 ======
 Beyond PID Controllers: PPO with Neuralized PID Policy for Proton Beam Intensity Control in Mu2e.  
 *Chenwei Xu*, Jerry Yao-Chieh Hu, et al.  
-*NeurIPS* 2023 Workshop Paper
+*NeurIPS* 2023 Workshop Paper [[Link](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_197.pdf)]
 
 On Sparse Modern Hopfield Model.  
 Jerry Yao-Chieh Hu, Donglin Yang, Dennis Wu, *Chenwei Xu*, Bo-Yu Chen, and Han Liu.  
