@@ -27,4 +27,4 @@ on a differentiable simulator of the Mu2e accelerator. It paves the ground works
 for real-time implementations and applications, representing a crucial step towards 
 automated proton beam intensity control for the Mu2e experiment.
 
-[Download paper here](http://chenwei-1999.github.io/files/Mu2e_ML4Phy_preprint.pdf)
+[Download paper here](http://chenwei-1999.github.io/files/NeurIPS_ML4PS_2023_197.pdf)
