@@ -12,8 +12,8 @@ Chenewi Xu is a master's student in Computer Science at Northwestern University 
 
 Selected Publications
 ======
-BISHOP: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model.
-*Chenwei Xu*, *Yu-Chao Huang*, *Jerry Yao-Chieh Hu*, Weijian Li, Ammar Gilani, Hsi-Sheng Goan, Han Liu
+BISHOP: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model.  
+*Chenwei Xu*, *Yu-Chao Huang*, *Jerry Yao-Chieh Hu*, Weijian Li, Ammar Gilani, Hsi-Sheng Goan, Han Liu  
 *ICML* 2024 Paper [[Link](https://arxiv.org/pdf/2404.03830.pdf)]
 
 Beyond PID Controllers: PPO with Neuralized PID Policy for Proton Beam Intensity Control in Mu2e.  
