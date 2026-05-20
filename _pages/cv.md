@@ -31,15 +31,9 @@ Selected Publications
 
 Academic Service and Conference Roles
 ======
-* Area Chair, ICLR 2026 Workshop ES-Reasoning.
-* Area Chair, CVPR 2026 Workshop MMRAgI.
-* Reviewer, ICLR 2026 Conference.
-* Reviewer, ICML 2026 Position Paper Track.
-* Reviewer, NeurIPS 2025 Datasets and Benchmarks Track.
-* Reviewer, NeurIPS 2026 Conference.
-* Reviewer, AISTATS 2026 Conference.
-* Reviewer, COLM 2026 Conference.
-* Reviewer, CVPR 2026 Conference.
+* Area Chair: ICLR 2026 Workshop ES-Reasoning; CVPR 2026 Workshop MMRAgI.
+* Conference Reviewer: NeurIPS 2024, NeurIPS 2025, NeurIPS 2026; ICLR 2026; ICML 2025; AISTATS 2025, AISTATS 2026; COLM 2025, COLM 2026; CVPR 2026.
+* Track and Workshop Reviewer: ICML 2026 Position Paper Track; NeurIPS 2025 Datasets and Benchmarks Track; NeurIPS 2025 MTI-LLM Workshop; NeurIPS 2025 Math-AI Workshop.
 
 Honors
 ======
