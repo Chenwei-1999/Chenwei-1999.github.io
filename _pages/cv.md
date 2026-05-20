@@ -40,9 +40,26 @@ Selected Publications
 * **On Sparse Modern Hopfield Model**, NeurIPS 2023.
 * **Feature Programming for Multivariate Time Series Prediction**, ICML 2023.
 
-Service and Honors
+Academic Service and Conference Roles
 ======
-* Area Chair, ICLR 2026 Workshop on Emergent Scaffolds for Reasoning in Foundation Models (ES-Reasoning).
-* Area Chair, CVPR 2026 Workshop on Multimodal Reasoning, Agents, and Generative AI (MMRAgI).
-* Reviewer, NeurIPS / ICML / ICLR / CVPR / ECCV / AISTATS / COLM.
+* ICLR 2026 Conference Authors.
+* ICLR 2026 Conference Reviewers.
+* ICLR 2026 Workshop ES-Reasoning Area Chairs.
+* ICML 2026 Conference Authors.
+* ICML 2026 Position Paper Track Reviewers.
+* NeurIPS 2025 Datasets and Benchmarks Track Reviewers.
+* NeurIPS 2026 Conference Authors.
+* NeurIPS 2026 Conference Reviewers.
+* NeurIPS 2026 Evaluations and Datasets Track Authors.
+* AISTATS 2026 Conference Reviewers.
+* COLM 2026 Conference Authors.
+* COLM 2026 Conference Reviewers.
+* CVPR 2026 Conference Authors.
+* CVPR 2026 Conference Reviewers.
+* CVPR 2026 Workshop 4DV Authors.
+* CVPR 2026 Workshop MMRAgI Area Chairs.
+* CVPR 2026 Workshop VidLLMs Authors.
+
+Honors
+======
 * ASA DataFest Finalist; SAE AI Mini-Challenge 2nd Prize; Veeam Software Endowed Scholarship.
