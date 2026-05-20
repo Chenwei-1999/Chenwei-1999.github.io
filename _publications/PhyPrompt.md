@@ -2,7 +2,7 @@
 title: "PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation"
 collection: publications
 permalink: /publication/PhyPrompt
-excerpt: 'This paper uses reinforcement learning to refine prompts for physically plausible text-to-video generation.'
+excerpt: 'This paper uses reinforcement learning to refine text-to-video prompts so generated videos better satisfy physical plausibility constraints.'
 date: 2026-03-01
 venue: 'arXiv'
 paperurl: https://arxiv.org/abs/2603.03505

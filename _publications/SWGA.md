@@ -2,7 +2,7 @@
 title: "SWGA: A Distributed Hyperparameter Search Method for Time Series Prediction Models"
 collection: publications
 permalink: /publication/SWGA
-excerpt: 'This work studies distributed hyperparameter search for time-series prediction models.'
+excerpt: 'This work proposes a distributed hyperparameter search method for time-series prediction models, coordinating search across candidate configurations efficiently.'
 date: 2024-01-01
 venue: 'OpenReview'
 paperurl: https://openreview.net/forum?id=xTrAA3UKPa

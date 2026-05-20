@@ -2,7 +2,7 @@
 title: "AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies"
 collection: publications
 permalink: /publication/AlignAb
-excerpt: 'This paper studies Pareto-optimal energy alignment for nature-like antibody design.'
+excerpt: 'This paper frames antibody design as Pareto-optimal energy alignment, balancing binding objectives with nature-like antibody properties.'
 date: 2025-12-01
 venue: 'NeurIPS'
 paperurl: https://arxiv.org/abs/2412.20984

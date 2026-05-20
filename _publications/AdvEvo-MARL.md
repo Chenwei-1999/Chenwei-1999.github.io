@@ -2,7 +2,7 @@
 title: "AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning"
 collection: publications
 permalink: /publication/AdvEvo-MARL
-excerpt: 'This work studies adversarial co-evolution for internalized safety in multi-agent reinforcement learning.'
+excerpt: 'This paper introduces adversarial co-evolution training for multi-agent reinforcement learning, using safety-driven competition to shape more robust agent behavior.'
 date: 2026-06-01
 venue: 'ICML'
 paperurl:

@@ -2,7 +2,7 @@
 title: "Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion"
 collection: publications
 permalink: /publication/Phys4D
-excerpt: 'This paper studies physics-consistent 4D modeling from video diffusion outputs.'
+excerpt: 'This paper evaluates fine-grained physical consistency in 4D scenes generated from video diffusion, connecting visual motion to physics-grounded structure.'
 date: 2026-06-01
 venue: 'CVPR Workshop on 4D Vision'
 paperurl: https://arxiv.org/abs/2603.03485
