@@ -42,6 +42,7 @@ Selected Publications
 
 Service and Honors
 ======
-* Area Chair, ICLR 2026.
+* Area Chair, ICLR 2026 Workshop on Emergent Scaffolds for Reasoning in Foundation Models (ES-Reasoning).
+* Area Chair, CVPR 2026 Workshop on Multimodal Reasoning, Agents, and Generative AI (MMRAgI).
 * Reviewer, NeurIPS / ICML / ICLR / CVPR / ECCV / AISTATS / COLM.
 * ASA DataFest Finalist; SAE AI Mini-Challenge 2nd Prize; Veeam Software Endowed Scholarship.
