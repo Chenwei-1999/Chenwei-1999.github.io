@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV](/files/Chenwei_Xu_CV.pdf).
+
 Education
 ======
 * Ph.D. in Statistics, Northwestern University, 2024-2029

@@ -12,7 +12,7 @@ I am a Ph.D. student in Statistics at Northwestern University. My research devel
 
 Before starting my Ph.D., I received an M.S. in Computer Science from Northwestern University and a B.S. in Data Analytics from The Ohio State University. I am a research assistant at Northwestern and a research collaborator with Dolby Laboratories.
 
-You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=cVvrY6MAAAAJ&hl=en), my [Northwestern Statistics and Data Science profile](https://statistics.northwestern.edu/people/phd-graduate-students/), and the [CV page](/cv/).
+You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=cVvrY6MAAAAJ&hl=en), my [Northwestern Statistics and Data Science profile](https://statistics.northwestern.edu/people/phd-graduate-students/), the [CV page](/cv/), and my [downloadable CV](/files/Chenwei_Xu_CV.pdf).
 
 Selected Publications
 ======
