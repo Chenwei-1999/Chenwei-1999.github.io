@@ -12,8 +12,6 @@ I am a Ph.D. student in Statistics at Northwestern University. My research devel
 
 Before starting my Ph.D., I received an M.S. in Computer Science from Northwestern University and a B.S. in Data Analytics from The Ohio State University. I am a research assistant at Northwestern and a research collaborator with Dolby Laboratories.
 
-Links: [Google Scholar](https://scholar.google.com/citations?user=cVvrY6MAAAAJ&hl=en) / [Northwestern profile](https://statistics.northwestern.edu/people/phd-graduate-students/) / [CV page](/cv/) / [PDF CV](/files/Chenwei_Xu_CV.pdf).
-
 Selected Publications
 ======
 Towards Sparse Video Understanding and Reasoning.<br>
