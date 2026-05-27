@@ -9,3 +9,4 @@ Talks and Slides
 ======
 
 * [Denoising Diffusion Probabilistic Models](/blogs/ddpm/)
+* [Distributed Computing](/blogs/distributed-computing/)
