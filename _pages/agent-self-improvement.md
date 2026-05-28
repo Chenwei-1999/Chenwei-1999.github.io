@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Agent Self-Improvement"
-permalink: /projects/agent-self-improvement/
+permalink: /blogs/agent-self-improvement/
 author_profile: true
 ---
 
-<p><img src="/files/projects/agent-self-improvement-banner.png" alt="Agent Self-Improvement banner"></p>
+<p><img src="/files/blogs/agent-self-improvement-banner.png" alt="Agent Self-Improvement banner"></p>
 
 Project
 ======
