@@ -16,7 +16,7 @@ Selected Publications
 ======
 Towards Sparse Video Understanding and Reasoning.<br>
 *Chenwei Xu*, Zhen Ye, Shang Wu, Weijian Li, Zihan Wang, Zhuofan Xia, Lie Lu, Pranav Maneriker, Fan Du, Manling Li, Han Liu<br>
-*CVPR* 2026 Poster [[Link](https://arxiv.org/abs/2602.13602)]
+*CVPR* 2026 Poster [[Paper](https://arxiv.org/abs/2602.13602)] [[Project](https://sparsevideounderstanding.github.io/)]
 
 AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning.<br>
 Zhenyu Pan, Yiting Zhang, Zhuo Liu, Yolo Y. Tang, Zeliang Zhang, Haozheng Luo, *Chenwei Xu*, Yuwei Han, Jianshu Zhang, Dennis Wu, Hong-Yu Chen, Haoran Lu, Haoyang Fang, Manling Li, Chenliang Xu, Philip S. Yu, Han Liu<br>
